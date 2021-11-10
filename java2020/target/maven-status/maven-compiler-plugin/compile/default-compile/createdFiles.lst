@@ -1,0 +1,7 @@
+Entity\Cliente.class
+Entity\Beneficiado.class
+Entity\referencia.class
+DAO\testing.class
+controller\control.class
+DAO\Conexion.class
+DAO\ClienteDAO.class
